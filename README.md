@@ -32,4 +32,4 @@ react app with passport authentication
 5. Happy Hacking!
 
 ## Contributors
-    Evan E J Tucker
+    
