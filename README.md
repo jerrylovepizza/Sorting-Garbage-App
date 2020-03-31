@@ -5,7 +5,7 @@ React app with passport authentication
 
 ### Requirements
 * MongoDB
-* Npm or yarn
+* Npm or Yarn
 * Node
 * Terminal or bash
 
