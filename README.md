@@ -1,4 +1,4 @@
-## react-auth
+## React-Auth
 react app with passport authentication
 
 [Check out the app here](https://react-auth-simple.herokuapp.com/)
@@ -9,7 +9,7 @@ react app with passport authentication
 * Node
 * Terminal or bash
 
-### built with:
+### Built With:
 - [x]  React.js
 - [x]  passport.js
 - [x]  Express
