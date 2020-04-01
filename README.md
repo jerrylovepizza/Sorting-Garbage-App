@@ -31,7 +31,7 @@ React app with passport authentication
     * `npm run start`
 5. Happy Hacking!
 
-### Contributor:
+### Author:
 * Jerry Dai
 
     
