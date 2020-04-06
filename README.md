@@ -1,5 +1,5 @@
 ## React-Auth
-React app with passport authentication
+* React app with passport authentication
 
 [Check out the app here](https://react-auth-simple.herokuapp.com/)
 
