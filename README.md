@@ -31,7 +31,7 @@
     * `npm run start`
 5. Happy Hacking!
 
-### Author:
+##### Author:
 * Jerry Dai
 
     
