@@ -1,15 +1,15 @@
-### React-Auth
+## React-Auth
 * React app with passport authentication
 
 [Check out the app here](https://react-auth-simple.herokuapp.com/)
 
-### Requirements
+## Requirements
 * MongoDB
 * Npm or Yarn
 * Node
 * Terminal or bash
 
-### Built With:
+## Built With:
 - [x]  React.js
 - [x]  passport.js
 - [x]  Express
@@ -19,7 +19,7 @@
 - [x]  Reactstrap
 - [x]  Animate CSS
 
-### Setup Instructions
+## Setup Instructions
 1. Clone the repo 
     * `git clone git@github.com:evanejtucker/react-auth.git`
     * `cd react-auth`
